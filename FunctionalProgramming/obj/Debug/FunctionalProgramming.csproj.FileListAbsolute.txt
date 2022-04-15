@@ -1,0 +1,13 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe.config
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.exe
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.pdb
+Q:\OneDrive\Documents\Udemy-Course\11-Functional Programming in C#\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe
+Q:\OneDrive\Documents\Udemy-Course\11-Functional Programming in C#\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.pdb
+Q:\OneDrive\Documents\Udemy-Course\11-Functional Programming in C#\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+Q:\OneDrive\Documents\Udemy-Course\11-Functional Programming in C#\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.exe
+Q:\OneDrive\Documents\Udemy-Course\11-Functional Programming in C#\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.pdb
+Q:\OneDrive\Documents\Udemy-Course\11-Functional Programming in C#\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csprojResolveAssemblyReference.cache
