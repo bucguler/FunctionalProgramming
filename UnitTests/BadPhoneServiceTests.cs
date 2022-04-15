@@ -5,6 +5,7 @@ namespace UnitTests {
     [TestFixture]
     public class BadPhoneServiceTests {
         [Test]
+        // comments added by Burak
         public void Test() {
             var gpsMock = new GpsMock();
             gpsMock.SetSteps(5000);

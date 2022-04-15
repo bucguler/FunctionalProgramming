@@ -1,18 +1,23 @@
-﻿<Properties>
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{BC970BA1-1151-4EBC-965A-129926077D3D}|Default">
+  <MonoDevelop.Ide.ItemProperties.FunctionalProgramming PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="UnitTests/BadPhoneServiceTests.cs" Line="8" Column="35" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FunctionalProgramming" expanded="True" selected="True" />
+          <Node name="FunctionalProgramming" expanded="True">
+            <Node name="FunctionalProgramming" expanded="True" />
+            <Node name="UnitTests" expanded="True">
+              <Node name="BadPhoneServiceTests.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <DisabledProjects>
-    <String>FunctionalProgramming/FunctionalProgramming.csproj</String>
-    <String>UnitTests/UnitTests.csproj</String>
-  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
